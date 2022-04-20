@@ -1,5 +1,4 @@
-# Netlify Photo Gallery
-
+# Netlify Photo Gallery #
 [![Netlify Status](https://api.netlify.com/api/v1/badges/4d853017-7159-4520-b9ee-cc9951715434/deploy-status)](https://app.netlify.com/sites/netlify-photo-gallery/deploys)
 
 This is a photo gallery demo project for Netlify Large Media made with photos from [Unsplash](https://unsplash.com/) and built with [Hugo](https://gohugo.io/).
